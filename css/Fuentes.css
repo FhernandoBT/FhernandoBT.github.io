@@ -1,0 +1,15 @@
+
+@font-face{
+
+    font-family:Mont;
+    src:url(/Fuentes/Mont-ExtraLightDEMO.otf);
+    src: url(/Fuentes/Mont-HeavyDEMO.otf);
+}
+
+a.nav {
+
+    font-family: Mont-HeavyDEMO;
+
+}
+
+
