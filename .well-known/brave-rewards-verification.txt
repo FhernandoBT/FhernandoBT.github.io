@@ -1,1 +1,4 @@
+This is a Brave Rewards publisher verification file.
 
+Domain: fhernandobt.github.io
+Token: 8727a2dcab8f9f2a1e4ad034f21e96229710962d46ca3927555a5d4fea3eadc8
